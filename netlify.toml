@@ -1,0 +1,6 @@
+# Optional Netlify settings. The site is otherwise a plain static folder
+# and works the same on GitHub Pages or any static host.
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404

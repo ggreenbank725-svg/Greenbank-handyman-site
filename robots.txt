@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Once you have a domain, replace YOUR-DOMAIN.TLD below.
+Sitemap: https://YOUR-DOMAIN.TLD/sitemap.xml
